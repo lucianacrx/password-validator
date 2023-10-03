@@ -9,7 +9,8 @@ import PasswordValidator from './components/PasswordValidator/PasswordValidator'
 const rules = [
   'hasNumber',
   'hasSpecialChar',
-  'hasUppercaseLetter'
+  'hasUppercaseLetter',
+  'hasNoConsecutiveRepeatingLetters'
 ];
 
 function App() {
