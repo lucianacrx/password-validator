@@ -10,12 +10,12 @@ Clone down this repository. You will need node and npm installed globally on you
 
 Installation:
 
-### `npm install`
+`npm install`
 
 To run tests:
 
-### `npm test`
+`npm test`
 
 To start server:
 
-### `npm start`
+`npm start`
